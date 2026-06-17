@@ -11,7 +11,9 @@ After evaluating the performance of multiple machine learning models, the top th
 
 ## Project Objectives
 1.To replicate the preprocessing and feature scaling pipeline adopted in the reference study to ensure methodological consistency. 
+
 2. To reevaluate the performance of machine learning algorithms, including Decision Tree (DT), Adaptive Boosting (AdaBoost), Gradient Boosting Tree (GBT), Extreme Gradient Boosting (XGB), and Light Gradient Boosting Machine (LGBM). 
+
 3. To implement ensemble learning techniques using a stacking approach with the top three performing algorithms identified from DT, AdaBoost, GBT, XGB, and LGBM after the Phase 1 performance analysis.
 
 The dataset descriptions, labels, and sources are provided in File Description and Dataset Source.pdf.
